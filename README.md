@@ -1,4 +1,3 @@
-# System-Health-Check
 # System Health Check using PowerShell
 
 ## Project Summary
@@ -45,9 +44,6 @@ _(Add a screenshot of running the script in PowerShell)_
 📸 **Log File Output Example:**  
 _(Add a screenshot of the generated log file)_
 
-## Demonstration
-### Video Demo (Optional)
-If possible, record a quick screen capture of running the script and upload it to GitHub.
 
 ## Next Steps
 - Expand functionality to send email alerts if system resources are low.
