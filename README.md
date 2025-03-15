@@ -14,7 +14,7 @@ This project is a **PowerShell script** that checks the system's health by monit
 - PowerShell
 
 ## Environments Used
-- Windows 10 / Windows Server
+- Windows 11 Home / Windows Server
 
 ## Technology & Applications Used
 - PowerShell scripting
