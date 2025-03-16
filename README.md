@@ -91,4 +91,4 @@ Finally, in the Triggers tab, set when and how often the script should run. For 
 
 ## Author
 **Tameya Williams**  
-GitHub: [YourGitHubProfile](https://github.com/YourGitHubProfile)
+GitHub: [YourGitHubProfile]([(https://github.com/tameya-w)])
