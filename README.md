@@ -49,10 +49,10 @@ Then run the script with:
 
 4. View the generated log file at `C:\SystemHealthCheck.log`.
 
-![Screenshot 2025-03-15 112738](https://github.com/user-attachments/assets/dcb3907c-078c-4267-96fb-5816010c03a8)
+   ![Screenshot 2025-03-15 112738](https://github.com/user-attachments/assets/dcb3907c-078c-4267-96fb-5816010c03a8)
 Open File Explorer, then go in the C: Drive
 
-![Screenshot 2025-03-15 112808](https://github.com/user-attachments/assets/300a75ac-9ba4-4613-81d3-eae85346e113)
+   ![Screenshot 2025-03-15 112808](https://github.com/user-attachments/assets/300a75ac-9ba4-4613-81d3-eae85346e113)
 Your log file is ready!
 
 
@@ -86,9 +86,3 @@ Finally, in the Triggers tab, set when and how often the script should run. For 
 🎉 Success! Your automated system health check is now scheduled and running! 🚀
 
 
-
-
-
-## Author
-**Tameya Williams**  
-GitHub: [YourGitHubProfile]([(https://github.com/tameya-w)])
