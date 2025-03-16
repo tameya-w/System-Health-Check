@@ -50,7 +50,7 @@ Then run the script with:
 4. View the generated log file at `C:\SystemHealthCheck.log`.
 
    ![Screenshot 2025-03-15 112738](https://github.com/user-attachments/assets/dcb3907c-078c-4267-96fb-5816010c03a8)
-Open File Explorer, then go in the C: Drive
+Open File Explorer, navigate to the C: drive, and locate the SystemHealthCheck.log file.
 
    ![Screenshot 2025-03-15 112808](https://github.com/user-attachments/assets/300a75ac-9ba4-4613-81d3-eae85346e113)
 Your log file is ready!
@@ -71,7 +71,12 @@ Open the Start Menu, search for Task Scheduler, then right-click and select 'Run
 
  ![Screenshot 2025-03-15 113652](https://github.com/user-attachments/assets/04bb855c-9ea5-4589-921f-4272367dba97)
  
-Next, in the Actions tab, click 'New', then enter the following command to run the script: `powershell.exe -File \"C:\Path\To\SystemHealthCheck.ps1\"`  
+Next, in the **Actions** tab:
+1. Click **"New"**.
+2. In the **Program/Script** field, enter:
+   ```powershell
+   powershell.exe -File "C:\Path\To\SystemHealthCheck.ps1"
+   Click OK to save the action.
 
 
 3. Schedule it to run daily or weekly.
@@ -83,6 +88,5 @@ Finally, in the Triggers tab, set when and how often the script should run. For 
 
 ![Screenshot 2025-03-15 113920](https://github.com/user-attachments/assets/a877ed15-0076-41ca-b9ed-a805f7d3ff46)
 
-🎉 Success! Your automated system health check is now scheduled and running! 🚀
-
+🎉 Success! Your automated System Health Check is now scheduled and running in the background. Your system will now be monitored regularly! 🚀
 
